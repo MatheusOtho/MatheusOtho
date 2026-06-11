@@ -34,8 +34,7 @@ Tenho experiência com desenvolvimento Front-End utilizando React e Tailwind CSS
 - Tailwind CSS
 - JavaScript moderno (ES6+)
 - Git e GitHub
-- Java
-- Programação Orientada a Objetos (POO)
+- Python
 - Estruturas de Dados
 - Boas práticas de desenvolvimento
 

@@ -110,9 +110,9 @@ Desenvolvimento de sites profissionais focados em performance, SEO e experiênci
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusOtho&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtho&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,7 +122,7 @@ Desenvolvimento de sites profissionais focados em performance, SEO e experiênci
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MatheusOtho&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -132,7 +132,7 @@ Desenvolvimento de sites profissionais focados em performance, SEO e experiênci
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MatheusOtho&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -158,6 +158,6 @@ Desenvolvimento de sites profissionais focados em performance, SEO e experiênci
 
 ### 💙 "Programar é transformar ideias em soluções."
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00BFFF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MatheusOtho&color=00BFFF&style=for-the-badge"/>
 
 </p>

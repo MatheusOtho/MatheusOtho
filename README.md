@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Olá, eu sou Matheus Otho</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Front-End • Estudante de Ciência da Computação • Futuro Desenvolvedor Full Stack
+💻 Desenvolvedor Front-End • Estudante de Engenharia de Software • Futuro Desenvolvedor Full Stack
 </h3>
 
 <p align="center">

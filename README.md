@@ -106,38 +106,6 @@ Desenvolvimento de sites profissionais focados em performance, SEO e experiênci
 
 ---
 
-# 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusOtho&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtho&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MatheusOtho&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MatheusOtho&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 🌎 Onde me encontrar
 
 <p>
@@ -158,6 +126,3 @@ Desenvolvimento de sites profissionais focados em performance, SEO e experiênci
 
 ### 💙 "Programar é transformar ideias em soluções."
 
-<img src="https://komarev.com/ghpvc/?username=MatheusOtho&color=00BFFF&style=for-the-badge"/>
-
-</p>

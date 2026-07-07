@@ -110,7 +110,7 @@ Desenvolvimento de sites profissionais focados em performance, SEO e experiênci
 
 <p>
 
-<a href="www.linkedin.com/in/matheus-otho">
+<a href="https://www.linkedin.com/in/matheus-otho">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
